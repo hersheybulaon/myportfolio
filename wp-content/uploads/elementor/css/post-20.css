@@ -1,0 +1,5 @@
+.elementor-20 .elementor-element.elementor-element-d7cc1e6 > .elementor-container {min-height: 90px;}
+.elementor-20 .elementor-element.elementor-element-d7cc1e6 > .elementor-container:after {content: "";min-height: inherit;}
+.elementor-20 .elementor-element.elementor-element-d7cc1e6:not(.elementor-motion-effects-element-type-background), .elementor-20 .elementor-element.elementor-element-d7cc1e6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #000;}
+.elementor-20 .elementor-element.elementor-element-d7cc1e6 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: -90px;padding: 10px 10px 10px 10px;z-index: 10;}
+.elementor-20 .elementor-element.elementor-element-d7cc1e6 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
